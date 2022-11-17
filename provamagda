@@ -1,0 +1,8 @@
+#https://www.youtube.com/watch?v=_ph7bqfFav0
+import webbrowser
+
+with open("preferiti.txt") as file:
+    links = file.readlines()
+    for link in links:
+        
+        webbrowser.get('windows-default').open(link)
