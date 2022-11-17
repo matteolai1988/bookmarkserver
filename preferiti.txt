@@ -1,0 +1,3 @@
+https://realpython.com/interacting-with-python/
+https://realpython.com/api-integration-in-python/
+https://towardsdatascience.com/exploring-reddits-ask-me-anything-using-the-praw-api-wrapper-129cf64c5d65
